@@ -7,9 +7,9 @@ Please find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120/) 
 {{<end>}}
 
 ## Zhengyuan (Franklin) Yang
+  Email: zyang567@wisc.edu 
+  
   Moblie: (+1)805-895-6565
-
-  Email: zyang567@wisc.edu
   
 ### Education
 University of California, Santa Barbara (September 2016 - June 2020)
@@ -20,31 +20,33 @@ University of Wisconsin-Madison (September 2020 - December 2021)
 
 ### Work and Research Experience
   
-Mitsui Sumitomo Bank Corporation (July - August 2017)(Shanghai, China)\
-  Finance Department Intern
+Mitsui Sumitomo Bank Corporation (Shanghai, China)\
+  Finance Department Intern (July - August 2017)
 
-Biophysics Laboratory, Joel Rothman's Group, MCDB Department (June 2018 - June 2020)(Santa Barbara, CA)\
-  Research Assistant
+Biophysics Laboratory, Joel Rothman's Group, MCDB Department (Santa Barbara, CA)\
+  Research Assistant (June 2018 - June 2020)
 
-Mitsui Sumitomo Insurance Company (August - September 2019)(Shanghai, China)\
-  Finance Department Intern
+Mitsui Sumitomo Insurance Company (Shanghai, China)\
+  Finance Department Intern (August - September 2019)
 
-Economics Research, Ted Bergstrom's Group, ECON Department(June - September 2020)(Santa Barbara, CA)\
-  Research Assistant
+Economics Research, Ted Bergstrom's Group, ECON Department (Santa Barbara, CA)\
+  Research Assistant (June - September 2020)
 
-Economics Research, Marek Weretka's Group, ECON Department(April 2021 - present)(Madison, WI)\
-  Research Assistant
+Economics Research, Marek Weretka's Group, ECON Department (Madison, WI)\
+  Research Assistant (April 2021 - present)
 
 
 ### Teaching Experience
-Physics 101: Complex Variables and Fourier Transforms (March - June 2020)(Santa Barbara, CA)\
-  Class Tutor
+    
+Education 20: Introduction to Research University (Santa Barbara, CA)\
+  Co-leader/tutor (September - December 2017)
   
-ECON 701: Microeconomic Theory(September 2021 - present)(Madison, WI)\
-  Course Grader
+ES 6C: Advanced Basketball (Santa Barbara, CA)\
+  Coach Assistant (September 2019 - March 2020)
   
-Education 20: Introduction to Research University (September - December 2017)(Santa Barbara, CA)\
-  Co-leader/tutor
+Physics 101: Complex Variables and Fourier Transforms (Santa Barbara, CA)\
+  Class Tutor (March - June 2020)
   
-ES 6C: Advanced Basketball (September 2019 - Present)(Santa Barbara, CA)\
-  Coach Assistant
+ECON 701: Microeconomic Theory (Madison, WI)\
+  Course Grader (September 2021 - present)
+
