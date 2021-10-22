@@ -12,11 +12,11 @@ You could find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120
   Moblie: (+1)805-895-6565
   
 ### Education
-University of California, Santa Barbara (September 2016 - June 2020)\
-  Bachelor of Science in Physics
+University of California, Santa Barbara\
+  Bachelor of Science in Physics (September 2016 - June 2020)
 
-University of Wisconsin-Madison (September 2020 - December 2021)\
-  Master of Science in Economics
+University of Wisconsin-Madison\
+  Master of Science in Economics (September 2020 - December 2021)
 
 ### Work and Research Experience
   
