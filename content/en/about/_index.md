@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 type : list-single
 ---
 {{<block class="note">}}
-Please find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120/) account and []().
+You could find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120/) account here[]().
 {{<end>}}
 
 ## Zhengyuan (Franklin) Yang
@@ -12,10 +12,10 @@ Please find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120/) 
   Moblie: (+1)805-895-6565
   
 ### Education
-University of California, Santa Barbara (September 2016 - June 2020)
+University of California, Santa Barbara (September 2016 - June 2020)\
   Bachelor of Science in Physics
 
-University of Wisconsin-Madison (September 2020 - December 2021)
+University of Wisconsin-Madison (September 2020 - December 2021)\
   Master of Science in Economics
 
 ### Work and Research Experience
