@@ -19,26 +19,33 @@ tags:
 
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248097520_3101800683425568_8511808906608947627_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=7MwJEAwihSoAX_Y5iDf&_nc_ht=scontent-msp1-1.xx&oh=8749c2f1c31a2c0dc45b0a4d6a55f83c&oe=6197DEB1" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum to set down: it seems damping accidently due to external force">}}
   
-  {{<figure src="https://www.facebook.com/photo/?fbid=3101800006758969&set=a.3101790183426618"  caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
+  {{<figure src="https://www.facebook.com/photo/?fbid=3101800006758969&set=a.3101790183426618" caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
   
 
   
+  {{<figure src="https://web.physics.ucsb.edu/~phys128/expimages/Interferometer.jpg" title="Experiments of Interferometry" caption="Photo by UCSB Physics Department">}}
   
   
-  {{<figure src="https://web.physics.ucsb.edu/~phys128/expimages/Interferometer.jpg"   title="Experiments of Interferometry" caption="Photo by UCSB Physics Department">}}
+  
+  
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247245287_3101800116758958_2458397201226117523_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=9kqwmA3lwEAAX-MIBSq&_nc_ht=scontent-msp1-1.xx&oh=d69ea5eb59130650d774ce5901451747&oe=619B59AC"  title="Interferometry Experiment Setting" caption="Photo by my teammate: Isabellio Sato">}}
   
+  
+  
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247524105_3101800093425627_671109207293280181_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=_LIEKNIzH88AX9VMKmk&_nc_ht=scontent-msp1-1.xx&oh=5834678e809df6abe234c44da41da9ab&oe=61981C29" >}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/245681282_3102296820042621_4900235624448884470_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=BKbwEb10NBIAX_90c0Q&_nc_ht=scontent-msp1-1.xx&oh=fd6fb494c5b0d4ef02b8086af4ceda2f&oe=619BAC0C" caption="Measured the index of refraction of air
-and glass based on the interference patterns (plotted by Sato).">}}
+  
+  
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/245681282_3102296820042621_4900235624448884470_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=BKbwEb10NBIAX_90c0Q&_nc_ht=scontent-msp1-1.xx&oh=fd6fb494c5b0d4ef02b8086af4ceda2f&oe=619BAC0C" caption="Measured the index of refraction of air and glass based on the interference patterns (plotted by Sato).">}}
+  
+  
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247313416_3101807150091588_1672564645482300032_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=46IGPA9arY4AX_E1JrP&_nc_ht=scontent-msp1-1.xx&oh=b335bb29621bc06bbdafe0581f8d0eaf&oe=6198941A" caption="Teaching Assistant Carl was cheacking our experiment!">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247986302_3101807243424912_5613565652981332119_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Hb41JvBrOjUAX8A7Ym2&_nc_ht=scontent-msp1-1.xx&oh=a75993a39c3946f36ee5e405846c7fbf&oe=6199FA8A" title="Cloud Chamber Experiments">}}
   
-  {{<block class="note" >}}
+{{<block class="note" >}}
 By cooling the cloud chamber and pouring methanol into it, the alpha decay of a radioactive source needle is visible because of reaction with ions from the methanol.
 {{< end >}}
   
