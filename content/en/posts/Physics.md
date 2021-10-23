@@ -19,9 +19,13 @@ tags:
 
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248097520_3101800683425568_8511808906608947627_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=7MwJEAwihSoAX_Y5iDf&_nc_ht=scontent-msp1-1.xx&oh=8749c2f1c31a2c0dc45b0a4d6a55f83c&oe=6197DEB1" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum to set down: it seems damping accidently due to external force">}}
   
-  {{<figure src="https://www.facebook.com/photo/?fbid=3101800006758969&set=a.3101790183426618" caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
+  {{<figure src="https://www.facebook.com/photo/?fbid=3101800006758969&set=a.3101790183426618"  caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
   
-  {{<figure src="https://web.physics.ucsb.edu/~phys128/expimages/Interferometer.jpg"  title="Experiments of Interferometry" caption="Photo by UCSB Physics Department">}}
+
+  
+  
+  
+  {{<figure src="https://web.physics.ucsb.edu/~phys128/expimages/Interferometer.jpg"   title="Experiments of Interferometry" caption="Photo by UCSB Physics Department">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247245287_3101800116758958_2458397201226117523_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=9kqwmA3lwEAAX-MIBSq&_nc_ht=scontent-msp1-1.xx&oh=d69ea5eb59130650d774ce5901451747&oe=619B59AC"  title="Interferometry Experiment Setting" caption="Photo by my teammate: Isabellio Sato">}}
   
