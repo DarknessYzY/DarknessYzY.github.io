@@ -1,5 +1,5 @@
 ---
-title: "Physics Experiment"
+title: "Physics Experiments"
 date: 
 author: 
 slug: 
