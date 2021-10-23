@@ -34,10 +34,10 @@ tags:
 
   
   {{< youtube id="1XQOMLB7rd0" autoplay="true">}}
-  {{<title="Phys 129L: 'Machine Learning in Star Craft'">}}
+  ## Phys 129L: "Machine Learning in Star Craft"
   
   {{< youtube id="weLgC6KzsPU" autoplay="true">}}
-  {{<title="Catch Pokemon in Broida office">}}
+  ## Catch Pokemon in Broida office
 
 
   
