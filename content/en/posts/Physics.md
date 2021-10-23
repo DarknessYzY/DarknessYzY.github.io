@@ -52,6 +52,14 @@ By cooling the cloud chamber and pouring methanol into it, the alpha decay of a 
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248177414_3101807490091554_6316185768302897154_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=kWG1dneeIvUAX_QF4IS&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3b5ad02b3a2f7391a3c656ca0655dc09&oe=619B0C01" title="An alpha decay kink" caption="Measured length and frequency of the decay from ImageJ.">}}
   
   
+  {{< youtube id="PUFLIAOdn6k" autoplay="true" >}}
+  
+  {{< youtube id="ojodgmYzwuo" autoplay="true" >}}
+  
+  
+  
+  
+  
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248090551_3101806786758291_8719870361506335938_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=o4UK-6-8cTUAX9hW7V_&_nc_ht=scontent-msp1-1.xx&oh=aed3f6fecd387009de9d848fd2642827&oe=61986573" title="The most exciting Millikan Experiment" caption="Conducted with my best friend Rio Shiihara!">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248256575_3101807113424925_7351768889731138247_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=ulVtQYpReyAAX_FSY6j&_nc_ht=scontent-msp1-1.xx&oh=4fb492fca17700b713b39f7d2ebdbc19&oe=619A9361" caption="One can observe oil drops clearly from the camera.">}}
