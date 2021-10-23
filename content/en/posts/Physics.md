@@ -14,10 +14,10 @@ tags:
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247116859_3101806450091658_7545665798029843681_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=sAMncOTubU4AX8menSx&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=50764effb5d717c991493717044c478f&oe=619B8CB1" title="Electrons (blue laser) are balanced with gravitational force" caption="Photo by my lab teammate: Tairan Zhang">}}
 
 
-{{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247210230_3101807373424899_870396054117173305_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=H7h6CdocCQUAX_FIwIw&_nc_oc=AQk1hQg--fHMrWp0NXxfrFyovZUbNdmDwBG0AS4V1CXoE9bBd1SeUNVaOK1lBLBkiUA&_nc_ht=scontent-msp1-1.xx&oh=c2f64b58646de163d4a8b4b0187d6d99&oe=619819F8" title="The Cavendish Experiment" caption="Measured the gravitational constant by the torsional balance equipment (with my friend/teammate Rohit Penumarti!)">}}
+{{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247210230_3101807373424899_870396054117173305_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=H7h6CdocCQUAX_FIwIw&_nc_oc=AQk1hQg--fHMrWp0NXxfrFyovZUbNdmDwBG0AS4V1CXoE9bBd1SeUNVaOK1lBLBkiUA&_nc_ht=scontent-msp1-1.xx&oh=c2f64b58646de163d4a8b4b0187d6d99&oe=619819F8" title="The Cavendish Experiment" caption="Measured the gravitational constant by the torsional balance equipment (with my friend/teammate Rohit Penumarti)!">}}
   
 
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248097520_3101800683425568_8511808906608947627_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=7MwJEAwihSoAX_Y5iDf&_nc_ht=scontent-msp1-1.xx&oh=8749c2f1c31a2c0dc45b0a4d6a55f83c&oe=6197DEB1" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum to set down: it seems damping accidently due to external force.">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248097520_3101800683425568_8511808906608947627_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=7MwJEAwihSoAX_Y5iDf&_nc_ht=scontent-msp1-1.xx&oh=8749c2f1c31a2c0dc45b0a4d6a55f83c&oe=6197DEB1" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum setting down: it seems damping accidently due to external force.">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248202734_3101800013425635_748023194240466357_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=hqxmIWiZ4MQAX-QjyhX&_nc_ht=scontent-msp1-1.xx&oh=489451314c310f70dd0e74781d5bf39b&oe=619A0911" caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
   
@@ -37,7 +37,7 @@ tags:
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/245681282_3102296820042621_4900235624448884470_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=BKbwEb10NBIAX_90c0Q&_nc_ht=scontent-msp1-1.xx&oh=fd6fb494c5b0d4ef02b8086af4ceda2f&oe=619BAC0C" caption="Measured the index of refraction of air and glass based on the interference patterns (plotted by Sato).">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/245681282_3102296820042621_4900235624448884470_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=BKbwEb10NBIAX_90c0Q&_nc_ht=scontent-msp1-1.xx&oh=fd6fb494c5b0d4ef02b8086af4ceda2f&oe=619BAC0C" caption="Measure the index of refraction of air and glass based on the interference patterns (plotted by Sato).">}}
   
   
   
