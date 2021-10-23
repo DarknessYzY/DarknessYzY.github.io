@@ -21,9 +21,7 @@ tags:
   
   
   
-    {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/246967258_3102405173365119_2011554819195411449_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=UbFC5gHvYncAX-ITyeQ&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3655a1d878ed6a1478834d3a08dc1bb9&oe=619BD562" 
-          caption="Met with Brandon Ingram (in his Rookie year)!">}}
+    {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/246967258_3102405173365119_2011554819195411449_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=UbFC5gHvYncAX-ITyeQ&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3655a1d878ed6a1478834d3a08dc1bb9&oe=619BD562" caption="Met with Brandon Ingram (in his Rookie year)!">}}
   
-      {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247517425_3101789616760008_1804965278968443544_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_ohc=ELoE-yW0LgMAX8mQGMk&_nc_ht=scontent-msp1-1.xx&oh=379dc1b124c69f8b71ea4bfff925ba3b&oe=619ACD32" 
-          title="Kendo Traning">}}
+      {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247517425_3101789616760008_1804965278968443544_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_ohc=ELoE-yW0LgMAX8mQGMk&_nc_ht=scontent-msp1-1.xx&oh=379dc1b124c69f8b71ea4bfff925ba3b&oe=619ACD32" title="Kendo Traning">}}
   
