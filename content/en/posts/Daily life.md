@@ -20,10 +20,10 @@ tags:
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248179803_3101789056760064_5780549566052054821_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=XZJvfom7twoAX8fLatZ&_nc_ht=scontent-msp1-1.xx&oh=89e7931f1d99544deb7b18cf56c035c9&oe=619B802E">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247576890_3101788806760089_3736854851734060865_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=y_2yyfvn6aYAX8c3lb5&_nc_ht=scontent-msp1-1.xx&oh=46861cd19b195d3564923c68137acbc8&oe=619B565D" 
-          title="When Biology meets Physics" caption="Lectured by Professor Cyrus R. Safinya">}}
+          title="When Biology meets Physics" caption="Biophysics course lectured by Professor Cyrus R. Safinya">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/246206174_3102405340031769_8072894983361361192_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Lczbz7XLHhEAX-mHOtW&_nc_ht=scontent-msp1-1.xx&oh=3d174fad26394aa59319ad37cfeeb865&oe=619A392D" 
-          title="'Explosion is the key!'">}}
+          title="Dr.B: 'Explosion is the key!'">}}
   
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248023084_3101788500093453_2682143584547899523_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_ohc=6-X4Lin_Zk0AX8g7XXw&_nc_ht=scontent-msp1-1.xx&oh=d62edba3fcc5fb93f4f4e65f293d737a&oe=619A2235" 
@@ -39,6 +39,8 @@ tags:
            title="First-time internship at SWFC, Shanghai" caption="Photo by my best friend Sam Cai (summer 2017)!">}}
   
   
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247885464_3101788616760108_7717451541449571177_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LLgwUuI47TsAX-Cbdll&_nc_ht=scontent-msp1-1.xx&oh=376e1bb5f7b774fe6d48dbdd939f99bf&oe=619964A0" 
+           title="My Desk">}}
   
   
   
