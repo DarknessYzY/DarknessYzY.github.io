@@ -53,7 +53,7 @@ By cooling the cloud chamber and pouring methanol into it, the alpha decay of a 
   
   {{< youtube id="ojodgmYzwuo" autoplay="true" >}}
   
-  
+  # Alpha decays shown in the cloud chamber and computer screen simultaneously. 
   
   
   
