@@ -12,7 +12,7 @@ tags:
 ---
 
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248419018_3101788606760109_616843632721723536_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=M8WdwPSy9T8AX-8u2GI&_nc_ht=scontent-msp1-1.xx&oh=94f8095d0a5b889d78253883f3550a9a&oe=619A24B3" 
-          title="Never give up!!" caption="Dr.B's office">}}
+          title="'Never give up!!!'" caption="Dr.B's office">}}
   
   
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247138815_3101789393426697_7197964622670515090_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_ohc=5oeosohZPy8AX88DXEe&_nc_ht=scontent-msp1-1.xx&oh=d4ddaf081e24f0bfe71d7be7b34894ed&oe=61986CCA" title="Why Physics">}}
@@ -34,8 +34,10 @@ tags:
 
   
   {{< youtube id="1XQOMLB7rd0" autoplay="true">}}
+  {{<title="Phys 129L: 'Machine Learning in Star Craft'">}}
   
   {{< youtube id="weLgC6KzsPU" autoplay="true">}}
+  {{<title="Catch Pokemon in Broida office">}}
 
 
   
