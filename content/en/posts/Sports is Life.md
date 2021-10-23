@@ -1,14 +1,6 @@
 ---
 title: "Sports is Life"
-date: 
-author: 
-slug: 
-draft: false
-toc: false
-categories:
-  - 
-tags:
-  - English
+
 ---
 
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248072290_3101790140093289_531737955507549089_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=0zUtcKkH4ycAX8iC_zO&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=91a47419db22ce81b078a52b766f01a2&oe=61986181" 
