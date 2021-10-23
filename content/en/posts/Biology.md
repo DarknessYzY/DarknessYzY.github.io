@@ -12,6 +12,9 @@ tags:
 ---
 
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247180031_3101834000088903_3111911247179035199_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=p_IUyZXU9IgAX-5FDNc&_nc_ht=scontent-msp1-1.xx&oh=2ae219f16d91896335945a496868f9e4&oe=6197D570" title="Rothman Lab, MCDB Department" caption="Where I worked for 2 years!">}}
+  
+{{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248378729_3101788720093431_6536124628495407145_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=-K2P2rGEJ8IAX9oo3U_&_nc_ht=scontent-msp1-1.xx&oh=44881f20e31c07ad40aa765b57710980&oe=619B3ABF">}} 
+  
 
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247839523_3101789686760001_8473628667156286041_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=SDdal5hwTG0AX8ZPP_a&_nc_ht=scontent-msp1-1.xx&oh=2629293a73888430c80228b63bd62ab3&oe=6199C28C" caption="Me in Summer 2018!">}} 
         
