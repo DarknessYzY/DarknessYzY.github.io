@@ -12,6 +12,9 @@ You could find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120
   Moblie: (+1)805-895-6565
   
 ### Education
+Shanghai Fudan High School\ 
+  Secondary Diploma (September 2013 - June 2016)
+  
 University of California, Santa Barbara\
   Bachelor of Science in Physics (September 2016 - June 2020)
 
@@ -50,3 +53,6 @@ Physics 101: Complex Variables and Fourier Transforms (Santa Barbara, CA)\
 ECON 701: Microeconomic Theory (Madison, WI)\
   Course Grader (September 2021 - present)
 
+### Publication and Papers
+  
+  Working on it (under Professor Marek Weretka's guidance)!
