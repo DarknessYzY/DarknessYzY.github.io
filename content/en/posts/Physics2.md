@@ -1,5 +1,5 @@
 ---
-title: "Physics Experiments 2"
+title: "Physics Experiments (2020)"
 date: 
 author: 
 slug: 
