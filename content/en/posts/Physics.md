@@ -18,7 +18,7 @@ tags:
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248097520_3101800683425568_8511808906608947627_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=7MwJEAwihSoAX_Y5iDf&_nc_ht=scontent-msp1-1.xx&oh=8749c2f1c31a2c0dc45b0a4d6a55f83c&oe=6197DEB1" title = "Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum to set down: it seems damping accidently due to external force">}}
   
-  {{<figure src="https://www.facebook.com/photo/?fbid=3101800006758969&set=a.3101790183426618" caption="We got perfect data of oscillation and fitted by fourier function on the last day">}}
+  {{<figure src="https://www.facebook.com/photo/?fbid=3101800006758969&set=a.3101790183426618" caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
   
   {{<figure src="https://web.physics.ucsb.edu/~phys128/expimages/Interferometer.jpg" title = "Experiments of Interferometry" caption="Photo by UCSB Physics Department">}}
   
@@ -31,13 +31,13 @@ and glass based on the interference patterns (plotted by Sato).">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247313416_3101807150091588_1672564645482300032_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=46IGPA9arY4AX_E1JrP&_nc_ht=scontent-msp1-1.xx&oh=b335bb29621bc06bbdafe0581f8d0eaf&oe=6198941A" caption="Teaching Assistant Carl was cheacking our experiment!">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247986302_3101807243424912_5613565652981332119_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Hb41JvBrOjUAX8A7Ym2&_nc_ht=scontent-msp1-1.xx&oh=a75993a39c3946f36ee5e405846c7fbf&oe=6199FA8A" title = "Cloud Chamber Experiments" caption="">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247986302_3101807243424912_5613565652981332119_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Hb41JvBrOjUAX8A7Ym2&_nc_ht=scontent-msp1-1.xx&oh=a75993a39c3946f36ee5e405846c7fbf&oe=6199FA8A" title = "Cloud Chamber Experiments">}}
   
   {{<block class="note" >}}
 By cooling the cloud chamber and pouring methanol into it, the alpha decay of a radioactive source needle is visible because of reaction with ions from the methanol.
 {{< end >}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248177414_3101807490091554_6316185768302897154_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=kWG1dneeIvUAX_QF4IS&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3b5ad02b3a2f7391a3c656ca0655dc09&oe=619B0C01" title="An alpha decay 'kink'" caption="Measured length and frequency of the decay from ImageJ.">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248177414_3101807490091554_6316185768302897154_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=kWG1dneeIvUAX_QF4IS&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3b5ad02b3a2f7391a3c656ca0655dc09&oe=619B0C01" title="An alpha decay kink" caption="Measured length and frequency of the decay from ImageJ.">}}
   
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248090551_3101806786758291_8719870361506335938_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=o4UK-6-8cTUAX9hW7V_&_nc_ht=scontent-msp1-1.xx&oh=aed3f6fecd387009de9d848fd2642827&oe=61986573" title = "The most exciting Millikan Experiment" caption= "Conducted with my best friend Rio Shiihara!">}}
@@ -51,7 +51,7 @@ By cooling the cloud chamber and pouring methanol into it, the alpha decay of a 
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248213207_3101789536760016_6477848393706786553_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Hv5TgWIeOLsAX9IrBE0&_nc_ht=scontent-msp1-1.xx&oh=abe598628946bd61c9bfc66c375b9a93&oe=619B0A08" title = "Five hours a day, four days a week." caption="No more Electronic circuits and bread board!!">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247028356_3101788910093412_61697432616799283_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Waq9PdgzmT4AX8pakcV&_nc_ht=scontent-msp1-1.xx&oh=a07be00ed98f9c4339521dbbacb1cb5d&oe=619BAED3" caption="Try Latex without Overleaf">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247028356_3101788910093412_61697432616799283_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Waq9PdgzmT4AX8pakcV&_nc_ht=scontent-msp1-1.xx&oh=a07be00ed98f9c4339521dbbacb1cb5d&oe=619BAED3" caption="Try Latex in the command window">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247486285_3101789270093376_8544687828223627476_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=EqlaH2tD2_kAX8uLTHC&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=758dd0fa35547d1a17b3430bd8c689da&oe=6198822E">}}
 
