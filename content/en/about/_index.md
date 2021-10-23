@@ -55,4 +55,4 @@ ECON 701: Microeconomic Theory (Madison, WI)\
 
 ### Publication and Papers
   
-  Working on it (under Professor Marek Weretka's guidance)!
+  Working on it (supervised by Professor Marek Weretka).
