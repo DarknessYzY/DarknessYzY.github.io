@@ -38,7 +38,7 @@ tags:
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247313416_3101807150091588_1672564645482300032_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=46IGPA9arY4AX_E1JrP&_nc_ht=scontent-msp1-1.xx&oh=b335bb29621bc06bbdafe0581f8d0eaf&oe=6198941A" caption="Teaching Assistant Carl was cheacking our experiment.">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247313416_3101807150091588_1672564645482300032_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=46IGPA9arY4AX_E1JrP&_nc_ht=scontent-msp1-1.xx&oh=b335bb29621bc06bbdafe0581f8d0eaf&oe=6198941A" caption="Teaching Assistant Carl was checking our experiment.">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247986302_3101807243424912_5613565652981332119_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Hb41JvBrOjUAX8A7Ym2&_nc_ht=scontent-msp1-1.xx&oh=a75993a39c3946f36ee5e405846c7fbf&oe=6199FA8A" title="Cloud Chamber Experiments">}}
   
@@ -56,11 +56,11 @@ By cooling the cloud chamber and pouring methanol into it, the alpha decay of a 
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248090551_3101806786758291_8719870361506335938_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=o4UK-6-8cTUAX9hW7V_&_nc_ht=scontent-msp1-1.xx&oh=aed3f6fecd387009de9d848fd2642827&oe=61986573" title="The most exciting Millikan Experiment" caption="Conducted with my best friend Rio Shiihara!">}}
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248090551_3101806786758291_8719870361506335938_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=o4UK-6-8cTUAX9hW7V_&_nc_ht=scontent-msp1-1.xx&oh=aed3f6fecd387009de9d848fd2642827&oe=61986573" title="The most exciting Millikan Experiment" caption="Work together with my best friend Rio Shiihara!">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248256575_3101807113424925_7351768889731138247_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=ulVtQYpReyAAX_FSY6j&_nc_ht=scontent-msp1-1.xx&oh=4fb492fca17700b713b39f7d2ebdbc19&oe=619A9361" caption="One can observe oil drops clearly from the camera.">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247194417_3101807450091558_8287172426682674831_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=M42pX_BbXpAAX9W2A4A&_nc_ht=scontent-msp1-1.xx&oh=cbfb9a7a20d8a13aa61c63f32c506077&oe=619B0BE9" caption="Captured and measured velocities of oil drops varied by electric field on this grid chart.">}}
   
   
-   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247328899_3101800016758968_3389801595744399068_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=coUgdQyG2-oAX8rdbKf&_nc_ht=scontent-msp1-1.xx&oh=19ae1bf956b658b10802b7f4ef40dd68&oe=619971AD" caption="Rio and I ionized the oil drops and showed that electric charges are quantized.">}}
+   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247328899_3101800016758968_3389801595744399068_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=coUgdQyG2-oAX8rdbKf&_nc_ht=scontent-msp1-1.xx&oh=19ae1bf956b658b10802b7f4ef40dd68&oe=619971AD" caption="Rio and I ionized the oil drops and showed that electric charges are quantized. Notice that the only two counts represent the elementary charge.">}}
