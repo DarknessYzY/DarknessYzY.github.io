@@ -1,9 +1,10 @@
 ---
 title: "Curriculum Vitae"
 type : list-single
+toc: true
 ---
 {{<block class="note">}}
-You could find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120/) account here[]()!
+You could find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120/) account here![]()
 {{<end>}}
 
 ## Zhengyuan (Franklin) Yang
