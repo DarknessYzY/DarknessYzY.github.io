@@ -32,12 +32,12 @@ tags:
   
     
 
-  
+  # Phys 129L: "Machine Learning in Star Craft"
   {{< youtube id="1XQOMLB7rd0" autoplay="true">}}
-  ## Phys 129L: "Machine Learning in Star Craft"
   
+  # Catch Pokemon in Broida office
   {{< youtube id="weLgC6KzsPU" autoplay="true">}}
-  ## Catch Pokemon in Broida office
+  
 
 
   
