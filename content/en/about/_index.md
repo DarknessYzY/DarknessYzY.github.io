@@ -12,7 +12,7 @@ You could find my [Linkedin](https://www.linkedin.com/in/franklin-yang-1b0656120
   Moblie: (+1)805-895-6565
   
 ### Education
-Shanghai Fudan High School\ 
+Shanghai Fudan High School\
   Secondary Diploma (September 2013 - June 2016)
   
 University of California, Santa Barbara\
