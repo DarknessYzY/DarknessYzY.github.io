@@ -38,6 +38,10 @@ tags:
   # Catch Pokemon in Broida office
   {{< youtube id="weLgC6KzsPU" autoplay="true">}}
   
+  
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248238434_3101806856758284_5793314610269462813_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_ohc=c9wR9srSvKwAX8A2qx3&_nc_ht=scontent-msp1-1.xx&oh=b700d43fbe8dad394838b401095b1f89&oe=619825E0" 
+          caption="Random walk on my chemotaxis plate?">}}
+  
 
 
   
