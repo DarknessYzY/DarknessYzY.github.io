@@ -35,12 +35,17 @@ tags:
   
  
   
+   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248032311_3102998599972443_2677834388575720857_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=qg4LBK92SHoAX_ax-aI&_nc_ht=scontent-msp1-1.xx&oh=5ee704857f33b7a5d822c7e2b47f1f28&oe=619BC1EB" 
+          title="Shanghai Tower, Jinmao Building, and Shanghai World Financial Center">}}
+  
+  
+  
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247172840_3101788730093430_4260367523363797830_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_ohc=mhHHrS5hLY4AX_VKQea&_nc_ht=scontent-msp1-1.xx&oh=cc42b0fe49e539b9961b4d6b101093b4&oe=61984B31" 
-           title="First-time internship at SWFC, Shanghai" caption="Photo by my best friend Sam Cai (summer 2017)!">}}
+           title="Summer internship at SWFC, Shanghai" caption="Photo by my best friend Sam Cai (summer 2017)!">}}
   
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247885464_3101788616760108_7717451541449571177_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LLgwUuI47TsAX-Cbdll&_nc_ht=scontent-msp1-1.xx&oh=376e1bb5f7b774fe6d48dbdd939f99bf&oe=619964A0" 
-           title="My working place">}}
+           title="My working place at Mitsui Sumitomo">}}
   
   
   
