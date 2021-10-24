@@ -1,6 +1,6 @@
 ---
 title: "劝学（节选）"
-date: 
+date: 2020.01.01
 author: 荀子
 slug: 
 draft: false
