@@ -40,7 +40,7 @@ tags:
   
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247885464_3101788616760108_7717451541449571177_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LLgwUuI47TsAX-Cbdll&_nc_ht=scontent-msp1-1.xx&oh=376e1bb5f7b774fe6d48dbdd939f99bf&oe=619964A0" 
-           title="My Desk">}}
+           title="My working place">}}
   
   
   
