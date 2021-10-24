@@ -50,7 +50,7 @@ tags:
   
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248281712_3101807416758228_7051927986359361198_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_ohc=hApqS5B1WTEAX-sl2ni&_nc_ht=scontent-msp1-1.xx&oh=b1b0aade2ed2d8d2afbf7a573f313b8c&oe=61988690" 
-           title="Extra work at Finance Department, Mitsui Sumitomo Insurance" caption="My colleagues are checking an office desk, for future printers, that designed and assembled by myself.">}}
+           title="Extra work at Finance Department, Mitsui Sumitomo Insurance" caption="My colleagues are checking an office desk that designed and assembled by myself.">}}
   
   
   
