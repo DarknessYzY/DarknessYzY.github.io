@@ -17,7 +17,7 @@ tags:
   
   
  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/253234143_3114156232190013_8597619294450190877_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=971RJsy08ZEAX-l60lz&_nc_ht=scontent-msp1-1.xx&oh=e920d00049e580275e282f3ed623ae2b&oe=61ABBBF6" 
-             title="A selfish "Dictator" " caption="Decisions and budget lines from one subject who took our online behavioral experiment.">}}
+             title="A selfish 'Dictator' " caption="Decisions and budget lines from one subject who took our online behavioral experiment.">}}
   
   
   
