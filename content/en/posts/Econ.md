@@ -29,6 +29,8 @@ Check our cool [Behavioral Experiment](https://www.profitest.pl/s/42740/kinsvbmt
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/253970944_3114158282189808_3994663575708885490_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=xOM_bpPktT8AX9jZtpW&_nc_ht=scontent-msp1-1.xx&oh=065e47183eae18d35067c36b5c333a43&oe=61AAFD5D"  
             title="Be careful as gamers, ALWAYS!!" >}}
   
-    {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/253261013_3114158185523151_9074489014432403055_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=A9JblO-uwRIAX_7gCeI&_nc_ht=scontent-msp1-1.xx&oh=1ea14869204f32d09cb8fcc891b5cef9&oe=61AE01BF">}}
+
+  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/246967258_3102405173365119_2011554819195411449_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=UbFC5gHvYncAX-ITyeQ&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3655a1d878ed6a1478834d3a08dc1bb9&oe=619BD562" title="Two gifts that Professor Bergstrom sent me before the campus shut down due to COVID-19" caption="My Game Theory textbook was as green as an avocado.">}}
   
 
+  
