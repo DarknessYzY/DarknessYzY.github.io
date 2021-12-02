@@ -23,6 +23,10 @@ Check our cool [Behavioral Experiment](https://www.profitest.pl/s/42740/kinsvbmt
  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/253234143_3114156232190013_8597619294450190877_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=971RJsy08ZEAX-l60lz&_nc_ht=scontent-msp1-1.xx&oh=e920d00049e580275e282f3ed623ae2b&oe=61ABBBF6" 
              title="A selfish 'Dictator' " caption="Decisions and budget lines from one subject who took our online behavioral experiment.">}}
   
+ {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/263019321_3133618253577144_5945873916279782395_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=07jL35lor2IAX_9qH47&_nc_ht=scontent-msp1-1.xx&oh=ec682f5768a30fd2813e83322ceb7853&oe=61AC850F" caption="In spite of releasing COVID-19 vaccine booster shots earlier than Malaysia, new cases in Singapore have been dramatically increasing since September 2021.">}}
+  
+ {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t39.30808-6/263018896_3133618300243806_3682125815344229482_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Bod6yUtj6xIAX8o-5Qp&_nc_ht=scontent-msp1-1.xx&oh=0f75788ff2db83621a506f5d5dca4000&oe=61ACF608" caption="By applying DID method, it seems like the vaccine booster shots indeed help England reduce COVID new cases, compared with North Ireland.">}}
+  
 
   
 
