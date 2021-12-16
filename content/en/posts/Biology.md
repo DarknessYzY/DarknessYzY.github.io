@@ -41,11 +41,15 @@ Some C. elegans have been frozen since decades ago, when Professor Rothman was s
   
 {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_0661.JPG" title="Prepare for polymerase chain reaction(PCR)." caption="Determine function of specific water bear gene by RNA interference method.">}} 
   
+  
+{{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/PCR.jpg">}} 
+  
+{{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/PCR1.jpg">}} 
+  
 {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_1008.JPG">}} 
   
-{{<figure src="">}} 
   
-{{<figure src="">}} 
+
   
   
   
