@@ -14,12 +14,12 @@ tags:
 {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_2207.JPG" 
           title="My takeaway from Physics">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248093430_3101788363426800_7117941122763284600_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_ohc=x7bFifItVl0AX-10DbY&_nc_oc=AQnQ22GCvSBLJkAdfhkgx_rbUl4Zkl-qz2i6W9GpULMJBcSuyokchtpNi_WO6InQCkA&_nc_ht=scontent-msp1-1.xx&oh=dcb2b99a7a037986e71de68ec1f39c3e&oe=619A4DA7" 
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_7336.JPG" 
           title="Quantum Cryptography" caption="Explained by Professor Dirk Bouwmeester">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248179803_3101789056760064_5780549566052054821_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=XZJvfom7twoAX8fLatZ&_nc_ht=scontent-msp1-1.xx&oh=89e7931f1d99544deb7b18cf56c035c9&oe=619B802E">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_7295.JPG">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247576890_3101788806760089_3736854851734060865_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=y_2yyfvn6aYAX8c3lb5&_nc_ht=scontent-msp1-1.xx&oh=46861cd19b195d3564923c68137acbc8&oe=619B565D" 
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_1114.JPG" 
           title="When Biology meets Physics" caption="Biophysics course lectured by Professor Cyrus R. Safinya">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/246206174_3102405340031769_8072894983361361192_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Lczbz7XLHhEAX-mHOtW&_nc_ht=scontent-msp1-1.xx&oh=3d174fad26394aa59319ad37cfeeb865&oe=619A392D" 
@@ -30,7 +30,7 @@ tags:
           title="Electromagnetism" caption="My comrades in Physics: Rio Shiihara and Blake Haist">}}
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247133901_3101789420093361_3993320355083152310_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_ohc=T93y9Ci8FWwAX8wgYQy&_nc_ht=scontent-msp1-1.xx&oh=dd7a4e6511cb7448449bae1396cd5266&oe=619B12FD" 
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_3096.JPG" 
           title="Lab routine at 9pm">}}
   
  
@@ -40,11 +40,11 @@ tags:
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247172840_3101788730093430_4260367523363797830_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=0debeb&_nc_ohc=mhHHrS5hLY4AX_VKQea&_nc_ht=scontent-msp1-1.xx&oh=cc42b0fe49e539b9961b4d6b101093b4&oe=61984B31" 
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_1357.JPG" 
            title="Summer internship at SWFC, Shanghai" caption="Photo by my best friend Sam Cai (summer 2017)!">}}
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247885464_3101788616760108_7717451541449571177_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=LLgwUuI47TsAX-Cbdll&_nc_ht=scontent-msp1-1.xx&oh=376e1bb5f7b774fe6d48dbdd939f99bf&oe=619964A0" 
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_1328.JPG" 
            title="My working place at Mitsui Sumitomo">}}
   
   
