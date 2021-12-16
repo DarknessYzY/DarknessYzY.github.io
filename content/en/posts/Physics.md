@@ -11,7 +11,7 @@ tags:
   - English
 ---
 
-{{<figure src="hhttps://raw.githubusercontent.com/DarknessYzY/Photos/main/blueLaser.jpg" title="Electrons (blue laser) are balanced with gravitational force" caption="Photo by my lab teammate: Tairan Zhang">}}
+{{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/blueLaser.jpg" title="Electrons (blue laser) are balanced with gravitational force" caption="Photo by my lab teammate: Tairan Zhang">}}
 
 
 
@@ -27,7 +27,7 @@ tags:
   
   {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_1108.JPG" caption="Try Latex in the command window.">}}
   
-  {{<figure src="" caption="Latex output">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/129latex.jpg" caption="Latex output">}}
   
   
   {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/ISS_I.png" caption="International Space Station (ISS) catched by my teammate Yihong Xu's iphone camera!">}}
