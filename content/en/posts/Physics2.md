@@ -26,7 +26,7 @@ tags:
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247245287_3101800116758958_2458397201226117523_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=9kqwmA3lwEAAX-MIBSq&_nc_ht=scontent-msp1-1.xx&oh=d69ea5eb59130650d774ce5901451747&oe=619B59AC"  title="Interferometry Experiment Setting" caption="Photo by my teammate: Isabellio Sato">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/michelson.png"  title="Interferometry Experiment Setting" caption="Photo by my teammate: Isabellio Sato">}}
   
   
   
@@ -34,7 +34,7 @@ tags:
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/245681282_3102296820042621_4900235624448884470_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=BKbwEb10NBIAX_90c0Q&_nc_ht=scontent-msp1-1.xx&oh=fd6fb494c5b0d4ef02b8086af4ceda2f&oe=619BAC0C" caption="Measure the index of refraction of air and glass based on the interference patterns (plotted by Sato).">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/index.png" caption="Measure the index of refraction of air and glass based on the interference patterns (plotted by Sato).">}}
   
   
   
@@ -63,4 +63,4 @@ By cooling the cloud chamber and pouring methanol into it, the alpha decay of a 
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247194417_3101807450091558_8287172426682674831_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=M42pX_BbXpAAX9W2A4A&_nc_ht=scontent-msp1-1.xx&oh=cbfb9a7a20d8a13aa61c63f32c506077&oe=619B0BE9" caption="Captured and measured velocities of oil drops varied by electric field on this grid chart.">}}
   
   
-   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247328899_3101800016758968_3389801595744399068_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=coUgdQyG2-oAX8rdbKf&_nc_ht=scontent-msp1-1.xx&oh=19ae1bf956b658b10802b7f4ef40dd68&oe=619971AD" caption="Rio and I ionized the oil drops and showed that electric charges are quantized. Notice that the only two counts represent the elementary charge.">}}
+   {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Rio!!!.png" caption="Rio and I ionized the oil drops and showed that electric charges are quantized. Notice that the only two counts represent the elementary charge.">}}
