@@ -11,7 +11,7 @@ tags:
   - English
 ---
 
-{{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247210230_3101807373424899_870396054117173305_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=H7h6CdocCQUAX_FIwIw&_nc_oc=AQk1hQg--fHMrWp0NXxfrFyovZUbNdmDwBG0AS4V1CXoE9bBd1SeUNVaOK1lBLBkiUA&_nc_ht=scontent-msp1-1.xx&oh=c2f64b58646de163d4a8b4b0187d6d99&oe=619819F8" title="The Cavendish Experiment" caption="Measured the gravitational constant by the torsional balance equipment (with my friend/teammate Rohit Penumarti)!">}}
+{{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Rohit.jpg" title="The Cavendish Experiment" caption="Measured the gravitational constant by the torsional balance equipment (with my friend/teammate Rohit Penumarti)!">}}
   
 
   {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/fullfit1.png" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum setting down: it seems damping accidently due to external force.">}}
@@ -30,23 +30,23 @@ tags:
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247524105_3101800093425627_671109207293280181_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=0debeb&_nc_ohc=_LIEKNIzH88AX9VMKmk&_nc_ht=scontent-msp1-1.xx&oh=5834678e809df6abe234c44da41da9ab&oe=61981C29" >}}
-  
   
   
   {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/index.png" caption="Measure the index of refraction of air and glass based on the interference patterns (plotted by Sato).">}}
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247313416_3101807150091588_1672564645482300032_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_ohc=46IGPA9arY4AX_E1JrP&_nc_ht=scontent-msp1-1.xx&oh=b335bb29621bc06bbdafe0581f8d0eaf&oe=6198941A" caption="Teaching Assistant Carl was checking our experiment.">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Carl.jpg" caption="Teaching Assistant Carl was checking our experiment.">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247986302_3101807243424912_5613565652981332119_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=Hb41JvBrOjUAX8A7Ym2&_nc_ht=scontent-msp1-1.xx&oh=a75993a39c3946f36ee5e405846c7fbf&oe=6199FA8A" title="Cloud Chamber Experiments">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/CloudChamber1.jpg" title="Cloud Chamber Experiments">}}
+  
+   {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/CloudChamber2.jpg">}}
   
 {{<block class="note" >}}
 By cooling the cloud chamber and pouring methanol into it, the alpha decay of a radioactive source needle is visible because of reaction with ions from the methanol.
 {{< end >}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248177414_3101807490091554_6316185768302897154_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=kWG1dneeIvUAX_QF4IS&tn=56ndwYLw8MJgaWYy&_nc_ht=scontent-msp1-1.xx&oh=3b5ad02b3a2f7391a3c656ca0655dc09&oe=619B0C01" title="An alpha decay kink" caption="Measured length and frequency of the decay from ImageJ.">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/ImageJ.jpg" title="An alpha decay kink" caption="Measured length and frequency of the decay from ImageJ.">}}
   
   
   {{< youtube id="PUFLIAOdn6k" autoplay="true" >}}
@@ -56,11 +56,12 @@ By cooling the cloud chamber and pouring methanol into it, the alpha decay of a 
   
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248090551_3101806786758291_8719870361506335938_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=o4UK-6-8cTUAX9hW7V_&_nc_ht=scontent-msp1-1.xx&oh=aed3f6fecd387009de9d848fd2642827&oe=61986573" title="The most exciting Millikan Experiment" caption="Work together with my best friend Rio Shiihara!">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Millikan2.jpg" title="The most exciting Millikan Experiment" caption="Work together with my best friend Rio Shiihara!">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248256575_3101807113424925_7351768889731138247_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=0debeb&_nc_ohc=ulVtQYpReyAAX_FSY6j&_nc_ht=scontent-msp1-1.xx&oh=4fb492fca17700b713b39f7d2ebdbc19&oe=619A9361" caption="One can observe oil drops clearly from the camera.">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247194417_3101807450091558_8287172426682674831_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=M42pX_BbXpAAX9W2A4A&_nc_ht=scontent-msp1-1.xx&oh=cbfb9a7a20d8a13aa61c63f32c506077&oe=619B0BE9" caption="Captured and measured velocities of oil drops varied by electric field on this grid chart.">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Millikan1.jpg" caption="One can observe oil drops clearly from the camera.">}}
+  
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Grid.jpg" caption="Captured and measured velocities of oil drops varied by electric field on this grid chart.">}}
   
   
    {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/Rio!!!.png" caption="Rio and I ionized the oil drops and showed that electric charges are quantized. Notice that the only two counts represent the elementary charge.">}}
