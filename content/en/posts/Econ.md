@@ -27,7 +27,7 @@ Check our cool [Behavioral Experiment](https://www.profitest.pl/s/42740/kinsvbmt
             title="Be careful as gamers, ALWAYS!!" >}}
   
 
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/253261013_3114158185523151_9074489014432403055_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=A9JblO-uwRIAX_7gCeI&_nc_ht=scontent-msp1-1.xx&oh=1ea14869204f32d09cb8fcc891b5cef9&oe=61AE01BF" title="Two gifts that Professor Bergstrom sent me before the campus shut down due to COVID-19." caption="My Game Theory textbook was as green as an avocado.">}}
+  {{<figure src="https://drive.google.com/file/d/13yMNB82O9VHJ6SCLynXtsSvXHL4xPw-E/view?usp=sharing" title="Two gifts that Professor Bergstrom sent me before the campus shut down due to COVID-19." caption="My Game Theory textbook was as green as an avocado.">}}
   
 
   
