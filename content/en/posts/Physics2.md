@@ -14,9 +14,9 @@ tags:
 {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247210230_3101807373424899_870396054117173305_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=H7h6CdocCQUAX_FIwIw&_nc_oc=AQk1hQg--fHMrWp0NXxfrFyovZUbNdmDwBG0AS4V1CXoE9bBd1SeUNVaOK1lBLBkiUA&_nc_ht=scontent-msp1-1.xx&oh=c2f64b58646de163d4a8b4b0187d6d99&oe=619819F8" title="The Cavendish Experiment" caption="Measured the gravitational constant by the torsional balance equipment (with my friend/teammate Rohit Penumarti)!">}}
   
 
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248097520_3101800683425568_8511808906608947627_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=0debeb&_nc_ohc=7MwJEAwihSoAX_Y5iDf&_nc_ht=scontent-msp1-1.xx&oh=8749c2f1c31a2c0dc45b0a4d6a55f83c&oe=6197DEB1" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum setting down: it seems damping accidently due to external force.">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/fullfit1.png" title="Movement of pendulum is recorded by camera and fitted on Matlab" caption="It takes several hours to wait until the pendulum setting down: it seems damping accidently due to external force.">}}
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248202734_3101800013425635_748023194240466357_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=hqxmIWiZ4MQAX-QjyhX&_nc_ht=scontent-msp1-1.xx&oh=489451314c310f70dd0e74781d5bf39b&oe=619A0911" caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/fit5.png" caption="We got perfect data of oscillation and fitted by fourier function on the last day.">}}
   
 
   
