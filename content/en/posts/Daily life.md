@@ -11,7 +11,7 @@ tags:
   - English
 ---
 
-{{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/247230862_3101789156760054_4966137315911628347_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0debeb&_nc_ohc=_xyQp7dy7CAAX8VQaZJ&_nc_ht=scontent-msp1-1.xx&oh=6662318114cf5b1558a95ff665de0384&oe=6199A894" 
+{{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_2207.JPG" 
           title="My takeaway from Physics">}}
   
   {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248093430_3101788363426800_7117941122763284600_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_ohc=x7bFifItVl0AX-10DbY&_nc_oc=AQnQ22GCvSBLJkAdfhkgx_rbUl4Zkl-qz2i6W9GpULMJBcSuyokchtpNi_WO6InQCkA&_nc_ht=scontent-msp1-1.xx&oh=dcb2b99a7a037986e71de68ec1f39c3e&oe=619A4DA7" 
@@ -26,7 +26,7 @@ tags:
           title="Dr.B: 'Explosion is the key!'">}}
   
   
-  {{<figure src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/248023084_3101788500093453_2682143584547899523_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_ohc=6-X4Lin_Zk0AX8g7XXw&_nc_ht=scontent-msp1-1.xx&oh=d62edba3fcc5fb93f4f4e65f293d737a&oe=619A2235" 
+  {{<figure src="https://raw.githubusercontent.com/DarknessYzY/Photos/main/IMG_2032.JPG" 
           title="Electromagnetism" caption="My comrades in Physics: Rio Shiihara and Blake Haist">}}
   
   
